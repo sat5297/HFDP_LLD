@@ -4,3 +4,6 @@ Currently we have 2 options NYStylePizzaStore and ChicagoStylePizzaStore which c
 
 Based on this it creates pizza in those specific stores. 
 We use Pizza abstract class. All the concrete Pizza classes inherits it and then build there pizza. 
+
+We are also using NULL Design Pattern in this. The NULL Pizza is example of the same.
+Using NULL DP we can avoid multiple checks and run the commands for all the pizza without worrying if the pizza exists or not.
