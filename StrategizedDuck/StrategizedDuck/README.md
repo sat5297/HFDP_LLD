@@ -5,4 +5,4 @@ The classes associated to the Duck interface are modified at runtime making it f
 
 The LLD Diagram of the class can be found below :
 
-<img src="https://github.com/sat5297/HFDP_LLD/blob/main/StrategizedDuck/StrategizedDuck/Duck.drawio%20(1).svg" alt="Create Employee"/>
+<img src="https://github.com/sat5297/HFDP_LLD/blob/main/StrategizedDuck/StrategizedDuck/Duck.drawio%20(1).svg" alt="Strategized Duck Example"/>
