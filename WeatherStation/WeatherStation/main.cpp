@@ -17,11 +17,11 @@ int main() {
 	ForecastConditionsDisplay* forecastConditionDisplay = new ForecastConditionsDisplay(weatherData);
 	weatherData->setMeasurements(23, 26, 29);
 
-	std::cout << " \nDeleted current condition observer\n";
+	std::cout << " \nDeleted current condition observer : \n";
 	delete currentConditionDisplay;
 	weatherData->setMeasurements(23, 29, 29);
 
-	std::cout << " \nAdded some more observers\n";
+	std::cout << " \nAdded some more observers : \n";
 	ForecastConditionsDisplay* forecastConditionDisplay1 = new ForecastConditionsDisplay(weatherData);
 	StatisticsConditionsDisplay* statisticsConditionDisplay1 = new StatisticsConditionsDisplay(weatherData);
 	StatisticsConditionsDisplay* statisticsConditionDisplay2 = new StatisticsConditionsDisplay(weatherData);

@@ -1,7 +1,4 @@
-﻿  CurrentConditionsDisplay.cpp
-  ForecastConditionsDisplay.cpp
-  StatisticsConditionsDisplay.cpp
-  Generating Code...
+﻿  main.cpp
 LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
 ForecastConditionsDisplay.obj : warning LNK4006: "public: __cdecl WeatherData::WeatherData(void)" (??0WeatherData@@QEAA@XZ) already defined in CurrentConditionsDisplay.obj; second definition ignored
 ForecastConditionsDisplay.obj : warning LNK4006: "public: float __cdecl WeatherData::getHumidity(void)const " (?getHumidity@WeatherData@@QEBAMXZ) already defined in CurrentConditionsDisplay.obj; second definition ignored
