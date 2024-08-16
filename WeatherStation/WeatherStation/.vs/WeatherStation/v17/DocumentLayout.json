@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\CurrentConditionsDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|solutionrelative:CurrentConditionsDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\StatisticsConditionsDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|solutionrelative:StatisticsConditionsDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,24 +11,16 @@
       "RelativeMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|solutionrelative:ForecastConditionsDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\CurrentConditionsDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|solutionrelative:CurrentConditionsDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\WeatherData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|solutionrelative:WeatherData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\DisplayElement.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|solutionrelative:DisplayElement.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\Subject.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|solutionrelative:Subject.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\Observer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D82E1578-D0A2-4507-BFF6-15C2E077DA40}|WeatherStation.vcxproj|solutionrelative:Observer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,58 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ForecastConditionsDisplay.cpp",
               "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\ForecastConditionsDisplay.cpp",
               "RelativeDocumentMoniker": "ForecastConditionsDisplay.cpp",
               "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\ForecastConditionsDisplay.cpp",
               "RelativeToolTip": "ForecastConditionsDisplay.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAARAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwDEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T07:19:36.485Z",
+              "WhenOpened": "2024-08-16T12:04:46.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StatisticsConditionsDisplay.cpp",
               "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\StatisticsConditionsDisplay.cpp",
               "RelativeDocumentMoniker": "StatisticsConditionsDisplay.cpp",
               "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\StatisticsConditionsDisplay.cpp",
               "RelativeToolTip": "StatisticsConditionsDisplay.cpp",
-              "ViewState": "AQIAABkAAAAAAAAAAAAqwC8AAAARAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T07:17:46.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBcAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T06:44:23.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DisplayElement.hpp",
-              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\DisplayElement.hpp",
-              "RelativeDocumentMoniker": "DisplayElement.hpp",
-              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\DisplayElement.hpp",
-              "RelativeToolTip": "DisplayElement.hpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T06:48:15.579Z",
+              "WhenOpened": "2024-08-16T12:04:14.695Z",
               "EditorCaption": ""
             },
             {
@@ -104,48 +66,35 @@
               "RelativeDocumentMoniker": "WeatherData.cpp",
               "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\WeatherData.cpp",
               "RelativeToolTip": "WeatherData.cpp",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFoAAAABAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T06:30:51.934Z",
+              "WhenOpened": "2024-08-16T11:46:12.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CurrentConditionsDisplay.cpp",
               "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\CurrentConditionsDisplay.cpp",
               "RelativeDocumentMoniker": "CurrentConditionsDisplay.cpp",
               "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\CurrentConditionsDisplay.cpp",
               "RelativeToolTip": "CurrentConditionsDisplay.cpp",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAACMAAAABAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T06:29:03.898Z",
+              "WhenOpened": "2024-08-16T11:45:58.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Subject.hpp",
-              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\Subject.hpp",
-              "RelativeDocumentMoniker": "Subject.hpp",
-              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\Subject.hpp",
-              "RelativeToolTip": "Subject.hpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T06:30:57.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Observer.hpp",
-              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\Observer.hpp",
-              "RelativeDocumentMoniker": "Observer.hpp",
-              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\Observer.hpp",
-              "RelativeToolTip": "Observer.hpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T06:48:37.453Z",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\WeatherStation\\WeatherStation\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T06:44:23.747Z",
               "EditorCaption": ""
             }
           ]

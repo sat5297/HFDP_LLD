@@ -5,29 +5,29 @@
 
 int main() {
 	WeatherData* weatherData = new WeatherData();
-	std::cout << "Current Conditions Display: " << std::endl;
+	std::cout << " Display with 1 observer : " << std::endl;
 	CurrentConditionsDisplay* currentConditionDisplay = new CurrentConditionsDisplay(weatherData);
 	weatherData->setMeasurements(10, 20, 40);
-	currentConditionDisplay->update();
-	currentConditionDisplay->display();
-	weatherData->setMeasurements(20, 25, 35);
-	currentConditionDisplay->update();
-	currentConditionDisplay->display();
-	std::cout << "Statistics Conditions Display: " << std::endl;
+
+	std::cout << " \nDisplay with 2 observer : " << std::endl;
 	StatisticsConditionsDisplay* statisticsConditionDisplay = new StatisticsConditionsDisplay(weatherData);
 	weatherData->setMeasurements(22, 23, 36);
-	statisticsConditionDisplay->update();
-	statisticsConditionDisplay->display();
-	weatherData->setMeasurements(20, 25, 35);
-	statisticsConditionDisplay->update();
-	statisticsConditionDisplay->display();
-	std::cout << "Forecast Conditions Display: " << std::endl;
-	ForecastConditionsDisplay* forecastConditionsDisplay = new ForecastConditionsDisplay(weatherData);
-	weatherData->setMeasurements(24, 21, 33);
-	forecastConditionsDisplay->update();
-	forecastConditionsDisplay->display();
-	weatherData->setMeasurements(24, 24, 39);
-	forecastConditionsDisplay->update();
-	forecastConditionsDisplay->display();
+
+	std::cout << " \nDisplay with 3 observer : " << std::endl;
+	ForecastConditionsDisplay* forecastConditionDisplay = new ForecastConditionsDisplay(weatherData);
+	weatherData->setMeasurements(23, 26, 29);
+
+	std::cout << " \nDeleted current condition observer\n";
+	delete currentConditionDisplay;
+	weatherData->setMeasurements(23, 29, 29);
+
+	std::cout << " \nAdded some more observers\n";
+	ForecastConditionsDisplay* forecastConditionDisplay1 = new ForecastConditionsDisplay(weatherData);
+	StatisticsConditionsDisplay* statisticsConditionDisplay1 = new StatisticsConditionsDisplay(weatherData);
+	StatisticsConditionsDisplay* statisticsConditionDisplay2 = new StatisticsConditionsDisplay(weatherData);
+	CurrentConditionsDisplay* currentConditionDisplay1 = new CurrentConditionsDisplay(weatherData);
+	CurrentConditionsDisplay* currentConditionDisplay2 = new CurrentConditionsDisplay(weatherData);
+	weatherData->setMeasurements(23, 26, 29);
+
 	return 0;
 }

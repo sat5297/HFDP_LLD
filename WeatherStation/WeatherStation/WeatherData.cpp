@@ -6,6 +6,8 @@
 
 #include "Subject.hpp"
 #include <vector>
+#include <iostream>
+using namespace std;
 
 class WeatherData : public Subject {
 private:
@@ -73,6 +75,7 @@ void WeatherData::setMeasurements(float temp, float humidity, float pressure)
 	this->humidity = humidity;
 	this->pressure = pressure;
 	this->temp = temp;
+	measurementsChanged();
 }
 
 float WeatherData::getTemperature() const

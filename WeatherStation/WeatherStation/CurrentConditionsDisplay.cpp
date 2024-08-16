@@ -25,6 +25,7 @@ public:
 
 CurrentConditionsDisplay::CurrentConditionsDisplay(WeatherData* weatherData)
 {
+	// std::cout << "Constructor CurrentConditionsDisplay\n";
 	this->weatherData = weatherData;
 	temp = 0;
 	pressure = 0;
@@ -34,6 +35,7 @@ CurrentConditionsDisplay::CurrentConditionsDisplay(WeatherData* weatherData)
 
 CurrentConditionsDisplay::~CurrentConditionsDisplay()
 {
+	this->weatherData->unsubscribeObserver(this);
 }
 
 void CurrentConditionsDisplay::update()
@@ -41,9 +43,10 @@ void CurrentConditionsDisplay::update()
 	this->temp = weatherData->getTemperature();
 	this->humidity = weatherData->getHumidity();
 	this->pressure = weatherData->getPressure();
+	display();
 }
 
 void CurrentConditionsDisplay::display()
 {
-	std::cout << "\tDisplaying temperature : " << this->temp << " humidity : " << this->humidity << " pressure : " << this->pressure <<  std::endl;
+	std::cout << "\033[3;42;30m\tDisplaying temperature : " << this->temp << " humidity : " << this->humidity << " pressure : " << this->pressure << "\033[0m" << std::endl;
 } 

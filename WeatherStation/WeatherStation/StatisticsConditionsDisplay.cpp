@@ -34,6 +34,7 @@ StatisticsConditionsDisplay::StatisticsConditionsDisplay(WeatherData* weatherDat
 
 StatisticsConditionsDisplay::~StatisticsConditionsDisplay()
 {
+	this->weatherData->unsubscribeObserver(this);
 }
 
 void StatisticsConditionsDisplay::update()
@@ -41,9 +42,10 @@ void StatisticsConditionsDisplay::update()
 	this->temp = weatherData->getTemperature();
 	this->humidity = weatherData->getHumidity();
 	this->pressure = weatherData->getPressure();
+	display();
 }
 
 void StatisticsConditionsDisplay::display()
 {
-	std::cout << "\tDisplaying humidity : " << this->humidity << " temperature : " << this->temp << " pressure : " << this->pressure << std::endl;
+	std::cout << "\033[3;44;30m\tDisplaying humidity : " << this->humidity << " temperature : " << this->temp << " pressure : " << this->pressure << "\033[0m" << std::endl;
 }
