@@ -3,4 +3,4 @@ It uses observer design pattern for this example.
 
 The LLD Diagram of the class can be found below :
 
-<img src="https://github.com/sat5297/HFDP_LLD/blob/main/WeatherStation/WeatherStation/WeatherDataObserver.drawio.svg" alt="Strategized Duck Example"/>
+<img src="https://github.com/sat5297/HFDP_LLD/blob/main/WeatherStation/WeatherStation/WeatherDataObserver.drawio%20(1).svg" alt="Strategized Duck Example"/>
