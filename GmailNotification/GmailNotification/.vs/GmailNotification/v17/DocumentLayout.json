@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\MobileNotificationDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|solutionrelative:MobileNotificationDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\TabletNotificationDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|solutionrelative:TabletNotificationDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\NotificationDisplay.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|solutionrelative:NotificationDisplay.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\DesktopNotificationDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|solutionrelative:DesktopNotificationDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\GmailData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|solutionrelative:GmailData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\Subject.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|solutionrelative:Subject.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\Observer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{020AAFAD-1F02-4F9F-9301-A85490F5A060}|GmailNotification.vcxproj|solutionrelative:Observer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationDisplay.hpp",
+              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\NotificationDisplay.hpp",
+              "RelativeDocumentMoniker": "NotificationDisplay.hpp",
+              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\NotificationDisplay.hpp",
+              "RelativeToolTip": "NotificationDisplay.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-17T06:58:46.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T06:42:22.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TabletNotificationDisplay.cpp",
+              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\TabletNotificationDisplay.cpp",
+              "RelativeDocumentMoniker": "TabletNotificationDisplay.cpp",
+              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\TabletNotificationDisplay.cpp",
+              "RelativeToolTip": "TabletNotificationDisplay.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T06:34:05.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesktopNotificationDisplay.cpp",
+              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\DesktopNotificationDisplay.cpp",
+              "RelativeDocumentMoniker": "DesktopNotificationDisplay.cpp",
+              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\DesktopNotificationDisplay.cpp",
+              "RelativeToolTip": "DesktopNotificationDisplay.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T06:33:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GmailData.cpp",
+              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\GmailData.cpp",
+              "RelativeDocumentMoniker": "GmailData.cpp",
+              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\GmailData.cpp",
+              "RelativeToolTip": "GmailData.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T06:26:47.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MobileNotificationDisplay.cpp",
+              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\MobileNotificationDisplay.cpp",
+              "RelativeDocumentMoniker": "MobileNotificationDisplay.cpp",
+              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\MobileNotificationDisplay.cpp",
+              "RelativeToolTip": "MobileNotificationDisplay.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T06:33:40.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subject.hpp",
+              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\Subject.hpp",
+              "RelativeDocumentMoniker": "Subject.hpp",
+              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\Subject.hpp",
+              "RelativeToolTip": "Subject.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-17T06:58:36.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Observer.hpp",
+              "DocumentMoniker": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\Observer.hpp",
+              "RelativeDocumentMoniker": "Observer.hpp",
+              "ToolTip": "C:\\Users\\Shakti\\HFDP_LLD\\GmailNotification\\GmailNotification\\Observer.hpp",
+              "RelativeToolTip": "Observer.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-17T06:58:44.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
